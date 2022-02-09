@@ -1,0 +1,15 @@
+C:\Users\dswan\OneDrive\Desktop\Quarter10\Advanced.NET\Midterm\Midterm\bin\Debug\net5.0\Midterm.deps.json
+C:\Users\dswan\OneDrive\Desktop\Quarter10\Advanced.NET\Midterm\Midterm\bin\Debug\net5.0\Midterm.runtimeconfig.json
+C:\Users\dswan\OneDrive\Desktop\Quarter10\Advanced.NET\Midterm\Midterm\bin\Debug\net5.0\Midterm.runtimeconfig.dev.json
+C:\Users\dswan\OneDrive\Desktop\Quarter10\Advanced.NET\Midterm\Midterm\bin\Debug\net5.0\Midterm.dll
+C:\Users\dswan\OneDrive\Desktop\Quarter10\Advanced.NET\Midterm\Midterm\bin\Debug\net5.0\ref\Midterm.dll
+C:\Users\dswan\OneDrive\Desktop\Quarter10\Advanced.NET\Midterm\Midterm\bin\Debug\net5.0\Midterm.pdb
+C:\Users\dswan\OneDrive\Desktop\Quarter10\Advanced.NET\Midterm\Midterm\obj\Debug\net5.0\Midterm.csproj.AssemblyReference.cache
+C:\Users\dswan\OneDrive\Desktop\Quarter10\Advanced.NET\Midterm\Midterm\obj\Debug\net5.0\Midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dswan\OneDrive\Desktop\Quarter10\Advanced.NET\Midterm\Midterm\obj\Debug\net5.0\Midterm.AssemblyInfoInputs.cache
+C:\Users\dswan\OneDrive\Desktop\Quarter10\Advanced.NET\Midterm\Midterm\obj\Debug\net5.0\Midterm.AssemblyInfo.cs
+C:\Users\dswan\OneDrive\Desktop\Quarter10\Advanced.NET\Midterm\Midterm\obj\Debug\net5.0\Midterm.csproj.CoreCompileInputs.cache
+C:\Users\dswan\OneDrive\Desktop\Quarter10\Advanced.NET\Midterm\Midterm\obj\Debug\net5.0\Midterm.dll
+C:\Users\dswan\OneDrive\Desktop\Quarter10\Advanced.NET\Midterm\Midterm\obj\Debug\net5.0\ref\Midterm.dll
+C:\Users\dswan\OneDrive\Desktop\Quarter10\Advanced.NET\Midterm\Midterm\obj\Debug\net5.0\Midterm.pdb
+C:\Users\dswan\OneDrive\Desktop\Quarter10\Advanced.NET\Midterm\Midterm\obj\Debug\net5.0\Midterm.genruntimeconfig.cache
